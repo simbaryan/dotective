@@ -1,0 +1,11 @@
+*.log
+*.zip
+*.pyc
+*.csv
+*.tar
+*.gz
+.ipynb_checkpoints
+*.l*
+*.o*
+*.out
+*.ovf
